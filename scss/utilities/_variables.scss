@@ -1,0 +1,7 @@
+$bodybg: white;
+$fuente: "Futura";
+
+@mixin flexitems {
+    display: flex;
+    justify-content: space-evenly;
+}

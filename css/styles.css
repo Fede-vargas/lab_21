@@ -1,0 +1,78 @@
+@font-face {
+  font-family: Futura Ligt;
+  src: url(/assets/fuentes/futura/Futura-CondensedLight.otf);
+}
+.logoLab {
+  height: 200px;
+  width: 200px;
+}
+
+.collapse {
+  display: flex;
+  flex-direction: row;
+  font-family: Futura;
+}
+
+form {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.imagenNosotros {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.textoNosotros {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  font-family: "Futura";
+  text-align: left;
+  text-decoration-line: underline;
+  font-weight: bold;
+  text-decoration: dotted;
+  padding-left: 20px;
+}
+
+p {
+  padding-left: 20px;
+}
+
+.imagenBanner {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 35px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.imagenesFooter {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 20px;
+}
+
+.iconoInstagram {
+  padding-left: 55px;
+  padding-right: 5px;
+}
+
+body {
+  background-color: white;
+}
+
+.contenedorcards {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/*# sourceMappingURL=styles.css.map */
